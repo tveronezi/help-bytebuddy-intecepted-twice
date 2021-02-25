@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+(cd sources/javaagent && mvn clean)
+(cd sources/sample-standalone && mvn clean)

@@ -1,0 +1,14 @@
+= Little help with bytebuddy
+
+The interceptor is called twice. Can you help?
+
+* Build it with ` ./scripts/build`
+* Run the example with `./scripts/sample-run-standalone`
+
+Output
+
+```
+Intercepted!
+Intercepted!
+GET
+```

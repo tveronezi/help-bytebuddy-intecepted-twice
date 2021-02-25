@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+
+java -javaagent:sources/javaagent/target/javaagent-0.0.1-jar-with-dependencies.jar -jar sources/sample-standalone/target/sample-standalone-0.0.1-jar-with-dependencies.jar $1
