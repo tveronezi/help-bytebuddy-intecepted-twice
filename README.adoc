@@ -12,3 +12,6 @@ Intercepted!
 Intercepted!
 GET
 ```
+
+* The agent code: https://github.com/tveronezi/help-bytebuddy-intecepted-twice/blob/main/sources/javaagent/src/main/java/agentfun/agent/Agent.java
+* The sample code: https://github.com/tveronezi/help-bytebuddy-intecepted-twice/blob/main/sources/sample-standalone/src/main/java/agentfun/standalone/Main.java
